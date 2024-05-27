@@ -1,4 +1,4 @@
-jsfunction setup() { //é uma função de preparo (setup)
+function setup() { //é uma função de preparo (setup)
   createCanvas(600, 600); //Canvas é como se fosse uma tela/quadro de pintura
   background("gray"); // posso colocar valores ou escrever a cor em inglês c/""
 }
